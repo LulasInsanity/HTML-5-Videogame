@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Action-Adventure",
+    "developer": "Nintendo",
+    "release_year": 2017,
+    "platforms": ["Switch", "Wii U"]
+  },
+  {
+    "id": 2,
+    "title": "Stardew Valley",
+    "genre": "Simulation",
+    "developer": "ConcernedApe",
+    "release_year": 2016,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 3,
+    "title": "Hades",
+    "genre": "Roguelike",
+    "developer": "Supergiant Games",
+    "release_year": 2020,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 4,
+    "title": "Minecraft",
+    "genre": "Sandbox",
+    "developer": "Mojang Studios",
+    "release_year": 2011,
+    "platforms": ["All"]
+  },
+  {
+    "id": 5,
+    "title": "Red Dead Redemption 2",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar Games",
+    "release_year": 2018,
+    "platforms": ["PC", "PS4", "Xbox One"]
+  },
+  {
+    "id": 6,
+    "title": "Cyberpunk 2077",
+    "genre": "RPG",
+    "developer": "CD Projekt Red",
+    "release_year": 2020,
+    "platforms": ["PC", "PS5", "Xbox Series X/S"]
+  },
+  {
+    "id": 7,
+    "title": "The Witcher 3: Wild Hunt",
+    "genre": "RPG",
+    "developer": "CD Projekt Red",
+    "release_year": 2015,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 8,
+    "title": "Grand Theft Auto V",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar Games",
+    "release_year": 2013,
+    "platforms": ["PC", "PS3", "Xbox 360"]
+  },
+  {
+    "id": 9,
+    "title": "Animal Crossing: New Horizons",
+    "genre": "Simulation",
+    "developer": "Nintendo",
+    "release_year": 2020,
+    "platforms": ["Switch"]
+  },
+  {
+    "id": 10,
+    "title": "Elden Ring",
+    "genre": "Action RPG",
+    "developer": "FromSoftware",
+    "release_year": 2022,
+    "platforms": ["PC", "PS5", "Xbox Series X/S"]
+  },
+  {
+    "id": 11,
+    "title": "Super Mario Odyssey",
+    "genre": "Platformer",
+    "developer": "Nintendo",
+    "release_year": 2017,
+    "platforms": ["Switch"]
+  },
+  {
+    "id": 12,
+    "title": "Celeste",
+    "genre": "Platformer",
+    "developer": "Maddy Makes Games",
+    "release_year": 2018,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 13,
+    "title": "Undertale",
+    "genre": "RPG",
+    "developer": "Toby Fox",
+    "release_year": 2015,
+    "platforms": ["PC", "Switch", "PS4", "Xbox One"]
+  },
+  {
+    "id": 14,
+    "title": "Fallout 4",
+    "genre": "RPG",
+    "developer": "Bethesda",
+    "release_year": 2015,
+    "platforms": ["PC", "PS4", "Xbox One"]
+  },
+  {
+    "id": 15,
+    "title": "Dispatch",
+    "genre": "Simulation",
+    "developer": "Adhoc Studios",
+    "release_year": 2025,
+    "platforms": ["PC", "PS5"] 
+  },
+  {
+    "id": 16,
+    "title": "Fortnite",
+    "genre": "Shooter",
+    "developer": "Epic Games",
+    "release_year": 2017,
+    "platforms": ["All"]
+
+  },
+  {
+    "id":,
+    "title":,
+    "genre":,
+    "developer":, 
+    "release_year":,
+    "platforms":
+  }
+
+  ]

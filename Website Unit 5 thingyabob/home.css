@@ -1,0 +1,35 @@
+#gamecard{
+    padding:05em;
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-column: 2;
+    grid-gap: 1em;
+    width: 100%;
+    background-color: #FFC600;
+    border-radius: 1em;
+    margin: auto;
+    height: 15vh;
+}
+#gameName{
+    justify-self: center;
+    font-size: 1.5em;
+    margin: 0 0 0 0;
+    height: min-content;
+    width:fit-content;   
+}
+#gameImage{
+    grid-column: 1;
+    grid-row: 1/3;
+    height: inherit;
+    display: flex;
+    border-radius: 0.5em;
+    justify-self: center;
+}
+#developer{
+    justify-self: center;
+    font-size: 1.5em;
+    margin: 0 0 0 0;
+    height: min-content;
+    width: fit-content;
+}
