@@ -1,140 +1,150 @@
 [
   {
     "id": 1,
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "genre": "Action-Adventure",
-    "developer": "Nintendo",
-    "release_year": 2017,
-    "platforms": ["Switch", "Wii U"]
+    "title": "Dispatch",
+    "publisher": "Adhoc Studios",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TC_ot8kEqaFh89HD6W2QMolS3yoFyuIsC_cPojLxcu9iAkGpLy4RjAVajkRmBPgmbvLyNQ&s=10",
+    "release": 2025,
+    "platforms": ["PC", "PS5"] 
   },
   {
     "id": 2,
     "title": "Stardew Valley",
-    "genre": "Simulation",
-    "developer": "ConcernedApe",
-    "release_year": 2016,
+    "publisher": "ConcernedApe",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3A_wFb9c966h6ru_9DMrMjj_dLlcwZNeiig18yODGBl1LDQudWuFkXg&s",
+    "release": 2016,
     "platforms": ["PC", "Switch", "PS4", "Xbox One"]
   },
   {
     "id": 3,
     "title": "Hades",
-    "genre": "Roguelike",
-    "developer": "Supergiant Games",
-    "release_year": 2020,
+    "publisher": "Supergiant Games",
+    "image":"https://static.wikia.nocookie.net/hades_gamepedia_en/images/a/a0/Hades_Pack_Art.png/revision/latest?cb=20181213192439",
+    "release": 2020,
     "platforms": ["PC", "Switch", "PS4", "Xbox One"]
   },
   {
     "id": 4,
     "title": "Minecraft",
-    "genre": "Sandbox",
-    "developer": "Mojang Studios",
-    "release_year": 2011,
+    "publisher": "Mojang Studios",
+    "image":"https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png",
+    "release": 2011,
     "platforms": ["All"]
   },
   {
     "id": 5,
     "title": "Red Dead Redemption 2",
-    "genre": "Action-Adventure",
-    "developer": "Rockstar Games",
-    "release_year": 2018,
+    "publisher": "Rockstar Games",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEIOKO0F-fVxGw1aZJMr-gr1vnCXdvrFewu-qw2SJNw_bL68jzIYYDCdnoYQDX3C99ZeNOA&s=10",
+    "release": 2018,
     "platforms": ["PC", "PS4", "Xbox One"]
   },
   {
     "id": 6,
     "title": "Cyberpunk 2077",
-    "genre": "RPG",
-    "developer": "CD Projekt Red",
-    "release_year": 2020,
+    "publisher": "CD Projekt Red",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWH8K2baa5QsbGLwLgdOBoCgAH8G-tts6ljcfY3mdpYjy4QjtJxuaAPeTM3asitg9ti_Mf&s=10",
+    "release": 2020,
     "platforms": ["PC", "PS5", "Xbox Series X/S"]
   },
   {
     "id": 7,
     "title": "The Witcher 3: Wild Hunt",
-    "genre": "RPG",
-    "developer": "CD Projekt Red",
-    "release_year": 2015,
+    "publisher": "CD Projekt Red",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjoeSJD-maaNd40HZzP9bXE7K-9hLPQmo1FrGv1QFEZUBiTqT_xZxbKhBoTD__ETcvFlLFyg&s=10",
+    "release": 2015,
     "platforms": ["PC", "Switch", "PS4", "Xbox One"]
   },
   {
     "id": 8,
     "title": "Grand Theft Auto V",
-    "genre": "Action-Adventure",
-    "developer": "Rockstar Games",
-    "release_year": 2013,
+    "publisher": "Rockstar Games",
+    "image":"https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+    "release": 2013,
     "platforms": ["PC", "PS3", "Xbox 360"]
   },
   {
     "id": 9,
     "title": "Animal Crossing: New Horizons",
-    "genre": "Simulation",
-    "developer": "Nintendo",
-    "release_year": 2020,
+    "publisher": "Nintendo",
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Animal_Crossing_New_Horizons.jpg/250px-Animal_Crossing_New_Horizons.jpg",
+    "release": 2020,
     "platforms": ["Switch"]
   },
   {
     "id": 10,
     "title": "Elden Ring",
-    "genre": "Action RPG",
-    "developer": "FromSoftware",
-    "release_year": 2022,
+    "publisher": "FromSoftware",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg",
+    "release": 2022,
     "platforms": ["PC", "PS5", "Xbox Series X/S"]
   },
   {
     "id": 11,
     "title": "Super Mario Odyssey",
-    "genre": "Platformer",
-    "developer": "Nintendo",
-    "release_year": 2017,
+    "publisher": "Nintendo",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUvZ-5KQdekB-yI4AnM_7N8S_LNFFjZwtoLmlxcO7xd_LObb6PQbLkgHw8WLDzAS0Tp5ITQ&s=10",
+    "release": 2017,
     "platforms": ["Switch"]
   },
   {
     "id": 12,
     "title": "Celeste",
-    "genre": "Platformer",
-    "developer": "Maddy Makes Games",
-    "release_year": 2018,
+    "publisher" : "Maddy Makes Games",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjUo7PS_3CMR-54X5QWZGNgJ8L8m7503uCA&s",
+    "release": 2018,
     "platforms": ["PC", "Switch", "PS4", "Xbox One"]
   },
   {
     "id": 13,
     "title": "Undertale",
-    "genre": "RPG",
-    "developer": "Toby Fox",
-    "release_year": 2015,
+    "publisher": "Toby Fox",
+    "image":"https://s3.amazonaws.com/gameopedia_covers/covers/504052/afa774e7566c0e592f9a3d958a70d73e.png",
+    "release": 2015,
     "platforms": ["PC", "Switch", "PS4", "Xbox One"]
   },
   {
     "id": 14,
     "title": "Fallout 4",
-    "genre": "RPG",
-    "developer": "Bethesda",
-    "release_year": 2015,
+    "publisher": "Bethesda",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_OtcfrYFjQ5BL8qgymLniCfzdYlvnBU-F6Bb8ZVSAGOdkLraH8UGX74WUQVANnq6HrSHsPhUdAdDYK_RUiT1ytgcG-Fv4KUXnrCiPJw&s=10",
+    "release": 2015,
     "platforms": ["PC", "PS4", "Xbox One"]
   },
   {
     "id": 15,
-    "title": "Dispatch",
-    "genre": "Simulation",
-    "developer": "Adhoc Studios",
-    "release_year": 2025,
-    "platforms": ["PC", "PS5"] 
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "publisher": "Nintendo",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IBEo-Aj41ilO-qCbwH9jo2YTzOAhE0fgMsNLwxDrkeY1oYTyj-kVxYyzMG353H3NouITCQ&s=10",
+    "release": 2017,
+    "platforms": ["Switch", "Wii U"]
   },
   {
     "id": 16,
     "title": "Fortnite",
-    "genre": "Shooter",
-    "developer": "Epic Games",
-    "release_year": 2017,
+    "publisher": "Epic Games",
+    "image":"https://m.media-amazon.com/images/M/MV5BMTZlMmIxM2EtN2Y4Zi00M2ZhLTk3NzgtNjJmZTU0MTQ3YjcwXkEyXkFqcGc@._V1_.jpg",
+    "release": 2017,
     "platforms": ["All"]
 
   },
   {
-    "id":,
-    "title":,
-    "genre":,
-    "developer":, 
-    "release_year":,
-    "platforms":
+    "id": 17,
+    "title":"Geometry Dash",
+    "publisher":"RobTop Games", 
+    "release": "2013",
+    "platforms": ["All"]
+  },
+  {
+    "id": 18,
+    "title": "TF2",
+    "publisher": "Valve",
+    "release": "2008",
+    "platforms": ["All"]   
+  },
+  {
+    "id": 19,
+    "title":"Blank"
   }
 
   ]
