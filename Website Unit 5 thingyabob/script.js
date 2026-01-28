@@ -35,3 +35,4 @@ card.style.textAlign="left"
 };
 xhttp.open("GET", "info.json", true);
 xhttp.send();
+
