@@ -17,9 +17,9 @@
   },
   {
     "id": 3,
-    "title": "Hades",
-    "publisher": "Supergiant Games",
-    "image":"https://static.wikia.nocookie.net/hades_gamepedia_en/images/a/a0/Hades_Pack_Art.png/revision/latest?cb=20181213192439",
+    "title": "Marvel Rivals",
+    "publisher": "Netease Games",
+    "image":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYXQFyOeCBWTkjwa17g4Lwv0jz1tiTicbKAH5rgPrx2Bm25WTv",
     "release": 2020,
     "platforms": ["PC", "Switch", "PS4", "Xbox One"]
   },
@@ -132,6 +132,7 @@
     "id": 17,
     "title":"Geometry Dash",
     "publisher":"RobTop Games", 
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBEt6sI4jsloUbI3QjN-Iib-_FKuk3GGVMnixfFxIzKpH4gx47Xfm4BbZaeOqjAY6cfuw&s=10",
     "release": "2013",
     "platforms": ["All"]
   },
@@ -140,11 +141,14 @@
     "title": "TF2",
     "publisher": "Valve",
     "release": "2008",
-    "platforms": ["All"]   
+    "platforms": ["All"]   ,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AFKgGZV1R1Iy1vEw4MjAfTQZdmhrpmvR5g&s"
   },
   {
     "id": 19,
-    "title":"Blank"
+    "title":"DOMO",
+    "publisher":"Adhoc Studios",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaT6m4P7y6DhXdJyr91vUkVvl0I-7uczOXHA&s"
   }
 
   ]

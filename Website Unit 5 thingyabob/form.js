@@ -1,22 +1,22 @@
 let form = document.querySelector(".form-div");
 
-form.addEventListener("submit", function(e){
-    e.perventDefault();
-    let title = title.value;
-    let publisher = publisher.value;
-    let release = release.value;
-    let image = image.value;
-    let newObj = {
-        "id": getNextId(),
-        "title": title,
-        "publisher": publisher,
-        "release": release,
-        "image": image };
+//form.addEventListener("submit", function(e){
+//    e.perventDefault();
+//    let title = title.value;
+//    let publisher = publisher.value;
+//    let release = release.value;
+//    let image = image.value;
+//    let newObj = {
+//        "id": getNextId(),
+//        "title": title,
+//        "publisher": publisher,
+//        "release": release,
+//        "image": image };
+//
+//        // submitData(newObj);
+//        form.reset();
 
-        // submitData(newObj);
-        form.reset();
-
-});
+//});
 
 console.log("form script started");
 
@@ -28,7 +28,7 @@ if (localStorage.getItem("datalist")) {
 }
 
 //if all in the same file, copy all of the code below underneath the script code from snippet A
- var titleInput = document.querySelector("#title-input");
+var titleInput = document.querySelector("#title-input");
 var pubInput = document.querySelector("#publisher-input");
 var dateInput = document.querySelector("#release-date-input");
 
