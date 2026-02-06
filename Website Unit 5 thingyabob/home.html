@@ -3,24 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Domo home</title>
+    <title>Domo.net</title>
     <link rel="stylesheet" href="home.css">
 </head>
 <body>
+
      <div class="grid">
         <div>
+            <h2>Add a game</h2>
         <form class="form-div">
-            <label for="add-game">Add Game:</label>
+            <label for="title-input">Add Game:</label>
             <input type="text" id="title-input" name="title-input" placeholder="Add your game">
             <br>
             <label for="publisher-input">Add Publisher:</label>
             <input type="text" id="publisher-input" name="publisher-input" placeholder="Add the developer">
             <br>
             <label for="release-date-input">Add Release date:</label>
-            <input type="text" id="release-date-input" name="release-date-input" placeholder="Add the release date">
+            <input type="number" id="release-date-input" name="release-date-input" placeholder="Add the release date">
         </br>
         <button>Submit</button>
         </form>
+        <h2>Sort Options</h2>
+            <button id="sort-az">Sort A → Z</button>
+            <button id="sort-za">Sort Z → A</button>
         </div> 
     </div>
     <h1>DOMONATOR 9000</h1>
