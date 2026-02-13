@@ -28,9 +28,9 @@ if (localStorage.getItem("datalist")) {
 }
 
 //if all in the same file, copy all of the code below underneath the script code from snippet A
-var titleInput = document.querySelector("#title-input");
-var pubInput = document.querySelector("#publisher-input");
-var dateInput = document.querySelector("#release-date-input");
+var titleInput = document.getElementById("#title-input");
+var pubInput = document.getElementById("#publisher-input");
+var dateInput = document.getElementById("#release-date-input");
 
 form.addEventListener("submit", function (e) {
   e.preventDefault();
